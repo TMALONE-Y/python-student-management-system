@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="Student Management & Academic Reporting System.png" width="100%" alt="Student Management & Academic Reporting System Banner">
+</p>
+
+# 🎓 Student Management & Academic Reporting System
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![CLI](https://img.shields.io/badge/Interface-CLI-green?style=for-the-badge)
+![Colorama](https://img.shields.io/badge/Library-Colorama-brightgreen?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/Maintained%3F-Yes-blue.svg?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)
+
 # python-student-management-system
 A simple Python-based Student Management System developed as a university project at Jordan University of Science and Technology (JUST).
 #*------------------------------------------------------------------------------------------------------------------------------------------------*
