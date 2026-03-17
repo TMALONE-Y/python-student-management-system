@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Student Management & Academic Reporting System.png" width="100%" alt="Student Management & Academic Reporting System Banner">
+  <img src="Student Management & Academic Reporting System.png" width="850" title="Student Management System Banner">
 </p>
 
 # 🎓 Student Management & Academic Reporting System
